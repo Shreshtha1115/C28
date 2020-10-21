@@ -1,2 +1,2 @@
-# C28
-slingshot mouse triggered event which is mouse released and mouse dragged
+# AngryBirdsStage3
+Stage 3 Angry Birds: Introducing Constraint
